@@ -26,3 +26,8 @@ In order to train a custom face mask detector, we need to break our project into
 2️⃣ Deployment: Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with_mask or without_mask
 
 ❌ We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
+
+<img width="398" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/d28927da-450e-4280-adce-7242a3fc4d74">
+
+░F░i░g░u░r░e░ ░1░0░:░ COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data. We’re now ready to apply our knowledge of computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras to perform face mask detection.
+
