@@ -31,3 +31,20 @@ In order to train a custom face mask detector, we need to break our project into
 
 ░F░i░g░u░r░e░ ░2░:░ COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data. We’re now ready to apply our knowledge of computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras to perform face mask detection.
 
+<img width="374" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/45ef5dea-3145-4468-9791-73505667cc91">
+<img width="354" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/d230b142-a051-4469-92ed-77250dc32713">
+
+                                                                🔔【﻿ＳU M M A R Y】🔔
+In this tutorial, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
+
+To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
+
+We fine-tuned MobileNetV2 on our mask/no mask dataset and obtained a classifier that is ~99% accurate.
+
+We then took this face mask classifier and applied it to both images and real-time video streams by:
+
+1️⃣ Detecting faces in images/video
+2️⃣ Extracting each individual face
+3️⃣ Applying our face mask classifier
+
+Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Nvidia, etc.).
