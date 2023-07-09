@@ -1,4 +1,4 @@
-<img width="382" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/cd72787e-9130-4fc7-b36c-6847a7db0d30"># Face-mask-recognition
+# Face-mask-recognition
                                        👉 𝗙𝗮𝗰𝗲 𝗠𝗮𝘀𝗸 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿 𝘄𝗶𝘁𝗵 𝗢𝗽𝗲𝗻𝗖𝗩, 𝗞𝗲𝗿𝗮𝘀/𝗧𝗲𝗻𝘀𝗼𝗿𝗙𝗹𝗼𝘄, 𝗮𝗻𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 👈
 
 In this tutorial, we’ll discuss how we can use computer vision in our two-phase face mask detector, detailing how our computer vision and deep learning pipeline will be implemented.
