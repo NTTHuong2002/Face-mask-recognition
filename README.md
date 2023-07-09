@@ -15,4 +15,4 @@ Detect  face masks in images
 Detect face masks in real-time video streams
 
                                         📜 📃 📄Ｔｗｏ－ｐｈａｓｅ░ｆａｃｅ░ｍａｓｋ░ｄｅｔｅｃｔｏｒ 📜 📃 📄
-                                        <img width="382" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/9b8f430c-a6ff-440f-9a6e-3c17e584b069">
+<img width="382" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/9b8f430c-a6ff-440f-9a6e-3c17e584b069">
