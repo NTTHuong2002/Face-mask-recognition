@@ -34,7 +34,7 @@ In order to train a custom face mask detector, we need to break our project into
 <img width="374" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/45ef5dea-3145-4468-9791-73505667cc91">
 <img width="354" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/d230b142-a051-4469-92ed-77250dc32713">
 
-                                    🔔【﻿ＳU M M A R Y】🔔
+                                              🔔【﻿ＳU M M A R Y】🔔
 In this tutorial, you learned how to create a  face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
 
 To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
