@@ -16,6 +16,7 @@ Detect face masks in real-time video streams
 
                                         📜 📃 📄Ｔｗｏ－ｐｈａｓｅ░ｆａｃｅ░ｍａｓｋ░ｄｅｔｅｃｔｏｒ 📜 📃 📄
 <img width="382" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/9b8f430c-a6ff-440f-9a6e-3c17e584b069">
+
 Figure 1: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras.
 
 In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
