@@ -1,5 +1,5 @@
 # Face-mask-recognition
-                                       👉 𝗙𝗮𝗰𝗲 𝗠𝗮𝘀𝗸 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿 𝘄𝗶𝘁𝗵 𝗢𝗽𝗲𝗻𝗖𝗩, 𝗞𝗲𝗿𝗮𝘀/𝗧𝗲𝗻𝘀𝗼𝗿𝗙𝗹𝗼𝘄, 𝗮𝗻𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 👈
+                          👉 𝗙𝗮𝗰𝗲 𝗠𝗮𝘀𝗸 𝗗𝗲𝘁𝗲𝗰𝘁𝗼𝗿 𝘄𝗶𝘁𝗵 𝗢𝗽𝗲𝗻𝗖𝗩, 𝗞𝗲𝗿𝗮𝘀/𝗧𝗲𝗻𝘀𝗼𝗿𝗙𝗹𝗼𝘄, 𝗮𝗻𝗱 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 👈
 
 In this tutorial, we’ll discuss how we can use computer vision in our two-phase face mask detector, detailing how our computer vision and deep learning pipeline will be implemented.
 
@@ -14,7 +14,7 @@ Given the trained face mask detector, we’ll proceed to implement two more addi
 Detect  face masks in images
 Detect face masks in real-time video streams
 
-                                        📜 📃 📄Ｔｗｏ－ｐｈａｓｅ░ｆａｃｅ░ｍａｓｋ░ｄｅｔｅｃｔｏｒ 📜 📃 📄
+                        📜 📃 📄Ｔｗｏ－ｐｈａｓｅ░ｆａｃｅ░ｍａｓｋ░ｄｅｔｅｃｔｏｒ 📜 📃 📄
 <img width="382" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/9b8f430c-a6ff-440f-9a6e-3c17e584b069">
 
 ░F░i░g░u░r░e░ ░1░:░ Phases and individual steps for building a  face mask detector with computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras.
@@ -34,7 +34,7 @@ In order to train a custom face mask detector, we need to break our project into
 <img width="374" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/45ef5dea-3145-4468-9791-73505667cc91">
 <img width="354" alt="image" src="https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/d230b142-a051-4469-92ed-77250dc32713">
 
-                                                                🔔【﻿ＳU M M A R Y】🔔
+                            🔔【﻿ＳU M M A R Y】🔔
 In this tutorial, you learned how to create a  face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
 
 To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
