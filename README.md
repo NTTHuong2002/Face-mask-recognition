@@ -31,7 +31,7 @@ In order to train a custom face mask detector, we need to break our project into
 
 ░F░i░g░u░r░e░ ░2░:░  face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data. We’re now ready to apply our knowledge of computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras to perform face mask detection.
 
-![anh](https://github.com/NTTHuong2002/Face-mask-recognition/issues/1#issue-1804296356)
+![Anh](https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/870d5408-26e2-47eb-a7a5-8ea662c82dbf)
 
 ![anh2](https://github.com/NTTHuong2002/Face-mask-recognition/assets/130816726/89527140-ebb7-46d8-9135-a15a1cb27bf6)
 
